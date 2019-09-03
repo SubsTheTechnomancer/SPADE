@@ -1,0 +1,10 @@
+print "This sentence does not end with a carriage return\. ".
+printl "This sentence does\.".
+printl "This sentence is there to prove it\.".
+.
+Please be careful - semicolon is not the delimiter of this language, \. is.
+There are fairly lax indentation requirements - wherever a space is present, you can add more.
+However, new lines must be one after another, and no tabs must be applied in the beginning.
+For example,.
+.
+print            "Example line\.".

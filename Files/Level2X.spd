@@ -1,0 +1,14 @@
+print                   "This sentence".
+print   " does".
+if 1.
+print " not".
+endif.
+.
+.
+print               " explain".
+print " what this ".
+.
+printl                                          "code actually".
+.
+print "\"does\"\.".
+.

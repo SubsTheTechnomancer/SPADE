@@ -1,0 +1,4 @@
+for 0 step 1 till 9.
+printl "Oh, Hello\.".
+endfor.
+Evil versions of a program are subtended with an X.

@@ -1,0 +1,8 @@
+var a.
+a : 5.
+printl "First a\: " a.
+var a.
+a : 20.
+printl "Second a\: " a.
+del a.
+printl "First a\: " a.

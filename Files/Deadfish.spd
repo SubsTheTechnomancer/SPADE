@@ -1,0 +1,38 @@
+var x code mod.
+x : 0.
+.
+let i equal 1, d equal 2, s equal 3 and o equal 4, and the input be read from right to left.
+.
+code : 431111.
+.
+for code step 0 till 0.
+.
+mod : (code%10).
+.
+if (mod=1).
+x :(x+1).
+goto 31.
+endif.
+.
+if (mod=2).
+x :(x-1).
+goto 31.
+endif.
+.
+if (mod=3).
+x :(x*x).
+goto 31.
+endif.
+.
+if (mod=4).
+printl x.
+goto 31.
+endif.
+.
+if ((x<0)|(x=256)).
+x : 0.
+endif.
+.
+code : ((code-mod)/10).
+.
+endfor.

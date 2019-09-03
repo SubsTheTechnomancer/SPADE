@@ -1,0 +1,8 @@
+var a b.
+a : 1.
+b : 1.
+print "The factorial of 10 is ".
+for a step 1 till 10.
+b : (b*a).
+endfor.
+print b "\.".

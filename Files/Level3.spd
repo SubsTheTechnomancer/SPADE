@@ -1,0 +1,8 @@
+Introduction to keyword typing.
+Typing keywords is not very hard in Streampunk, All you need to do is to put a \ in front of it.
+This is true \for all keywords except the p-rint keyword and the hyphen, which is required to be typed with a hyphen in front of it (as per the Streampunk Effective Coding Standard [SECS]).
+printl "Full stop\.".
+printl "\"Quotes\"".
+printl "\for, \if, \endif, \endfor".
+printl "Slash\\ ".
+printl "Hyphen -- and p-rint and p-rintl".

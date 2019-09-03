@@ -1,0 +1,12 @@
+Let's have some fun, shall we?.
+goto 5.
+
+
+printl "endif\\\\\\\\n".
+goto 8.
+
+printl "\"\"\"Round and round we go.\"\"\"".
+printl "-----\\\\\\--------\\\\\\\"\\\\.\\\\\\\---".
+for 0 step 1 till 9.
+print "tp-rin".
+endfor.

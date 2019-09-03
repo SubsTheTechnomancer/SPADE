@@ -1,0 +1,10 @@
+Handle this one on your own.
+var a.
+a:5.
+if (a>3).
+printl "Success".
+endif.
+.
+if (a>4&a<8).
+printl "done".
+endif.

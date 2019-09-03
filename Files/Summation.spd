@@ -1,0 +1,8 @@
+var a b.
+a : 1.
+b : 0.
+print "The summation of 50 is ".
+for a step 1 till 50.
+b : (b+a).
+endfor.
+print b "\.".

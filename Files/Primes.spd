@@ -1,0 +1,24 @@
+var a b c flag.
+a : 5.
+.
+print "The primes from 5 to 10000 are  ".
+.
+for a step 1 till 10000.
+.
+b : 2.
+flag : 1.
+c : (a-1).
+.
+for b step 1 till c.
+.
+if (a%b=0).
+flag : 0.
+endif.
+.
+endfor.
+.
+if (flag=1).
+print a "  ".
+endif.
+.
+endfor.

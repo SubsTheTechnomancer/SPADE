@@ -1,0 +1,22 @@
+var a root temp.
+.
+This program p\rints the digital root of a number.
+.
+a : '47358'.
+temp : (a).
+root : 0.
+.
+for a step 0 till 0.
+.
+root : (root+(a%10)).
+a : ((a-(a%10))/10).
+.
+endfor.
+.
+if (root>9).
+a : (root).
+root : 0.
+goto 7.
+endif.
+.
+print "The digital root of " temp " is " root ".".

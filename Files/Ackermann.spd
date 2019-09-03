@@ -1,0 +1,36 @@
+var m n flag temp.
+.
+flag : 0.
+m : 1.
+n : 2.
+.
+if (m=0).
+.
+if (flag~0).
+printl "m not 0.".
+n : (n+1).
+flag : (flag-1).
+goto 33.
+.
+endif.
+printl "Ending.".
+print (n+1).
+goto 36.
+endif.
+.
+if (n=0).
+.
+m : (m-1).
+n : 1.
+goto 6.
+.
+endif.
+.
+temp : m.
+n : (n-1).
+flag : (flag+1).
+goto 6.
+m : (temp-1).
+temp : (temp+1).
+goto 6.
+.

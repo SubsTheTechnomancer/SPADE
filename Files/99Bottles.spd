@@ -1,0 +1,12 @@
+var a.
+a : 99.
+.
+for a step -1 till 1.
+.
+printl a " bottles of beer on the wall,".
+printl a " bottles of beer.".
+printl "Take one down, pass it around,".
+printl (a-1) " bottles of beer on the wall.\n".
+.
+endfor.
+.

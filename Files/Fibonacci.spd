@@ -1,0 +1,18 @@
+var a b c temp. 
+.
+This program p\rints the fibonacci sequence till 25.
+.
+a : '1'.
+b : '1'.
+c : 1.
+.
+print a "  " b "  ".
+.
+for c step 1 till 25.
+.
+temp : (a).
+a : (b).
+b : (temp+b).
+print b "  ".
+.
+endfor.

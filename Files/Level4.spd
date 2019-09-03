@@ -1,0 +1,8 @@
+var a.
+a : (5+3*2/7).
+printl "The value of a is " a.
+printl (7*3+2^2^3).
+var b.
+b : (a+5).
+printl b.
+this program introduces expression evaluation.  

@@ -1,0 +1,19 @@
+var a.
+a : 25.
+.
+printl "Collatz sequence \for 25\:".
+printl a.
+.
+for a step 0 till 1.
+.
+if (a%2=0).
+a : (a/2).
+goto 15.
+endif.
+.
+a : (3*a+1).
+.
+printl a.
+.
+endfor.
+.
